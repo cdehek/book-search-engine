@@ -11,8 +11,8 @@
     "heroku-postbuild": "cd client && npm run build"
   },
   "repository": {
-    "type": "git",
-    "url": "git@github.com:coding-boot-camp/solid-broccoli.git"
+    "type": "url",
+    "url": "https://github.com/cdehek/book-search-engine"
   },
   "keywords": [],
   "author": "",
