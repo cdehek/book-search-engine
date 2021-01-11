@@ -10,7 +10,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribute](#contribute)
-  - [Languages Used](#made)
+  - [Made With](#made-using)
   - [Questions](#questions)
   - [License](#license)
   ---
@@ -24,7 +24,7 @@
   * cdehek
   ---
 
-  ## Made Using the Following:
+  ## Made-Using:
   * GraphQL
   * React
   * Node
