@@ -1,9 +1,9 @@
 
   # Book Search Engine
-  # Created By:cdehek
+   Created By: cdehek
 
   ### This is an application that utilized the Google Books API and allows users to sign-up, login, and add/delete books to their personal list! 
-  See it in action [HERE!](https://aqueous-escarpment-69010.herokuapp.com/)
+  ## See it in action [HERE!](https://aqueous-escarpment-69010.herokuapp.com/)
   ![img](https://github.com/cdehek/book-search-engine/blob/main/client/public/demo-img.PNG)
 
   ## Table of Contents
